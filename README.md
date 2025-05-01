@@ -1,57 +1,53 @@
 <!-- Title -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://duartecapinha.github.io/">Duarte Capinha</a></b>
-        </samp>
+    <samp>&gt; Hey there! I’m 
+        <b><a target="_blank" href="https://duartecapinha.github.io/">Duarte Capinha</a></b>
+    </samp>
 </h3>
 <br>
 
+<!-- Intro -->
 <p align="center">
-        <!-- Intro -->
-        <samp>
-        「 I'm a data science master's student from <b>Portugal</b> 」
-         <br>
-        「 I chase patterns in chaos, find meaning in numbers, and grow with every line of code 」
-         <br>
+    <samp>
+        「 I'm a Data Science master's student from <b>Portugal</b> 」
         <br>
-        </samp>
-
-        <!-- Technologies -->
-        
+        「 I chase patterns in chaos, find meaning in numbers, and grow with every line of code 」
+        <br><br>
+    </samp>
 </p>
 
 <!-- Details Section -->
 <details align="center">
     <summary> <samp>&#9776; More</samp></summary>
+    <br>
+    <!-- GitHub Stats -->
     <p align="center">
-        <br>
-        <!-- Activity Widget -->
         <img alt="Duarte Capinha's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=duartecapinha&show_icons=true&theme=radical" />
-        <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Mail -->
-        <a href="mailto:connect.duartecapinha@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+             src="https://github-readme-stats.vercel.app/api?username=duartecapinha&show_icons=true&theme=radical" />
+    </p>
+
+    <!-- Social Links -->
+    <p align="center">
+        <samp>Find me on</samp><br><br>
+        <a href="mailto:connect.duartecapinha@gmail.com" target="_blank">
+            <img alt="Mail"
+                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/duartecapinha/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        <a href="https://www.linkedin.com/in/duartecapinha/" target="_blank">
+            <img alt="LinkedIn"
+                 src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
-        
     </p>
 </details>
 <br>
 
 <!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding👨‍💻"
-    </p>
-</samp>
+<p align="center">
+    <samp>
+        "Thank you! ;)"
+    </samp>
+</p>
 
 <!-- Featured Repositories -->
-#### Featured
+#### 🚀 Featured Projects
+<!-- You can manually list or pin your projects here -->
