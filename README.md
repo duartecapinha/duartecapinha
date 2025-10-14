@@ -1,10 +1,9 @@
-## 🙋 Introducing Myself
-
 ![Banner Duarte Capinha](./banner-linkedin.png)
 
 # 👋 Hi, I'm Duarte
 
 Building intelligence with less DNA involved.
+
 Currently pursuing a Master's in Data Science at Universidade Lusófona, and working on LLMs, NLP and Computer Vision.
 
 ---
@@ -25,8 +24,11 @@ Currently refining my portfolio with academic and real-world AI projects.
 
 ### 🛠️ Stack
 **Languages:** Python, SQL, JavaScript, HTML/CSS
+
 **Frameworks & Libs:** PyTorch, Transformers, FastAPI, scikit-learn, Pandas, NumPy  
+
 **ML/AI Tools:** vLLM, Ollama, Hugging Face, Unsloth  
+
 **Other:** Git, Docker, VS Code, Figma
 
 ### 👋 Connect with Me
