@@ -2,25 +2,32 @@
 
 ![Banner Duarte Capinha](./banner-linkedin.png)
 
-Hello, I'm Duarte - a former biologist who discovered a passion in Data Science and Programming.<br>
-I'm currently pursuing a Master's in Data Science at Universidade Lusófona
+# 👋 Hi, I'm Duarte
 
-### 📚 What I Do
-- Exploratory Data Analysis & data storytelling
-- Machine Learning (classification, regression, clustering)
-- SQL for querying and transforming data
-- Data Cleaning and Preprocessing in Python
-- Dashboard design
-- Front-End Web Development (HTML, CSS, JS)
+Building intelligence with less DNA involved.
+Currently pursuing a Master's in Data Science at Universidade Lusófona, and working on LLMs, NLP and Computer Vision.
+
+---
+
+### 🧠 What I Work On
+- Applied Machine Learning and Deep Learning  
+- Natural Language Processing & Large Language Models  
+- Computer Vision and OCR pipelines  
+- Data Engineering & Analysis  
+- Building scalable AI systems and prototypes  
+
+---
 
 ### 💼 Projects
-I'm currently working on updating this section with my academic and personal projects.
+Currently refining my portfolio with academic and real-world AI projects.  
 
-### 🛠️ Tools & Technologies
-- Languages: Python, SQL, HTML, CSS, JavaScript
-- Libraries: Pandas, scikit-learn, Matplotlib, Seaborn, NumPy, SQLAlchemy
-- Databases: MySQL, PostgreSQL
-- Web/Design: Figma, Canva, Bootstrap
+---
+
+### 🛠️ Stack
+**Languages:** Python, SQL, JavaScript, HTML/CSS
+**Frameworks & Libs:** PyTorch, Transformers, FastAPI, scikit-learn, Pandas, NumPy  
+**ML/AI Tools:** vLLM, Ollama, Hugging Face, Unsloth  
+**Other:** Git, Docker, VS Code, Figma
 
 ### 👋 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/duartecapinha/)
